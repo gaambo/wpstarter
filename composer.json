@@ -27,7 +27,7 @@
         "source": "https://github.com/wecodemore/wpstarter"
     },
     "require": {
-        "php": ">=7.1 < 8.3",
+        "php": ">=7.1 < 8.4",
         "ext-curl": "*",
         "ext-dom": "*",
         "ext-filter": "*",
